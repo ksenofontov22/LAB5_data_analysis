@@ -3,4 +3,4 @@
 **Цель лабораторной:** нахождение последовательностей в наборах данных, реализация алгоритмов AprioriAll и PrefixSpan и их сравнение на реальном датасете
 
 ## Структура проекта
-- `notebooks/01_data_understanding.ipynb` - основной Jupyter Notebook с анализом  
+- `notebooks/05_data_understanding.ipynb` - основной Jupyter Notebook с анализом  
